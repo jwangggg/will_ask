@@ -1,0 +1,8 @@
+package eclipse2Repo;
+
+public class Car {
+
+	public void printName() {
+		System.out.println("Class name is car.");
+	}
+}
