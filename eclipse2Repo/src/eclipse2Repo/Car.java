@@ -5,6 +5,6 @@ public class Car {
 	public void printName() {
 		System.out.println("Class name is car.");
 		System.out.println("add some new feature.");
-		//some changes in master
+		System.out.println("changes");
 	}
 }
